@@ -8,7 +8,7 @@ https://rdpackages.github.io/replication
 
 ## Empirical Application: Senate Data
 
-Included as part of [Cattaneo, Idrobo and Titiunik (2020)](https://github.com/rdpackages-replication/CIT_2020_CUP) replication files.
+Included as part of [Cattaneo, Idrobo and Titiunik (2020)](https://github.com/rdpackages-replication/CIT_2020_CUP)  and [Cattaneo, Idrobo and Titiunik (2023)](https://github.com/rdpackages-replication/CIT_2023_CUP) replication files.
 
 This data is also used as the canonical test dataset for [RD packages](https://rdpackages.github.io).
 
